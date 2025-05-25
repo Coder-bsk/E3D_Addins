@@ -1,3 +1,11 @@
+Chat application to interact with the users in E3D and other Aveva Products and Modules.
+#Features
+1. Chat with Users and Groups
+2. Send Messages and Element Name as Quick link.
+3. Send screen shot Image.
+4. Send Request like expunge, Unlock, Unclaim, Creation, deletion with Element Link.
+#Quickconnect #aveva #chatapp
+
 *** Addin Installation Procedure ***
 1. Unzip and Copy dll file to Aveva E3D Installation Directory.
 2. Update DesignAddins.xml 
